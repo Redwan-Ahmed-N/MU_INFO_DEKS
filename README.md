@@ -1,5 +1,5 @@
 # Mu-Info-Desk
-## Do this group project in 2024
+## Does this group project in -2024
 
 The university is creating a centralized information hub to serve students, teachers, faculty, and visitors. This hub will offer easy access to campus resources, events, and important announcements. The initiative aims to enhance communication and streamline the dissemination of information within the university community. By centralizing information, the hub will ensure that everyone on campus can quickly and efficiently access the resources they need, improving connectivity and fostering a well-informed campus environment.
 
